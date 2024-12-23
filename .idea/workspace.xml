@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4b15aaac-fd05-442e-87e1-67d4135ba582" name="Changes" comment="Initial Commit">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ImgurAPI/tests/Oauth2ExampleDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/airport/tests/GetAirportDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/auth/tests/BasicAndDigestAuthTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automationexercise/tests/GetAllBrandsAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/bookStoreAPI/tests/GetBookingAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/bookingAPI/models/request/BookingDates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/bookingAPI/models/request/CreateBookingRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/bookingAPI/models/response/Booking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/bookingAPI/models/response/CreateBookingResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/bookingAPI/tests/ResponseParsing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/bookingAPI/tests/SimplePostApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/Puma.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/getAirportDetails.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2qYPaBkzaw8dLD4dueS3S5D36Z8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "last_opened_file_path": "D:/Rohini/Web Automation/rest-assured-java/src/test/resources"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Rohini\Web Automation\rest-assured-java\src\test\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.Oauth2ExampleDemo.generateNewAccessToken">
+    <configuration name="Oauth2ExampleDemo.deleteImageWithOauth2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="rest-assured-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ImgurAPI.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ImgurAPI.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.ImgurAPI.tests.Oauth2ExampleDemo" />
+      <option name="METHOD_NAME" value="deleteImageWithOauth2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Oauth2ExampleDemo.generateNewAccessToken" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="rest-assured-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ImgurAPI.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ImgurAPI.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.ImgurAPI.tests.Oauth2ExampleDemo" />
+      <option name="METHOD_NAME" value="generateNewAccessToken" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Oauth2ExampleDemo.uploadImageWithOauth2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="rest-assured-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ImgurAPI.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ImgurAPI.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.ImgurAPI.tests.Oauth2ExampleDemo" />
+      <option name="METHOD_NAME" value="uploadImageWithOauth2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ResponseParsing.testCreateBookingAPIUsingPojo" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="rest-assured-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bookingAPI.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bookingAPI.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.bookingAPI.tests.ResponseParsing" />
+      <option name="METHOD_NAME" value="testCreateBookingAPIUsingPojo" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimplePostApi.testCreateBookingAPIUsingPojo" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="rest-assured-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bookingAPI.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bookingAPI.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.bookingAPI.tests.SimplePostApi" />
+      <option name="METHOD_NAME" value="testCreateBookingAPIUsingPojo" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Oauth2ExampleDemo.generateNewAccessToken" />
+        <item itemvalue="TestNG.Oauth2ExampleDemo.deleteImageWithOauth2" />
+        <item itemvalue="TestNG.Oauth2ExampleDemo.uploadImageWithOauth2" />
+        <item itemvalue="TestNG.ResponseParsing.testCreateBookingAPIUsingPojo" />
+        <item itemvalue="TestNG.SimplePostApi.testCreateBookingAPIUsingPojo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b15aaac-fd05-442e-87e1-67d4135ba582" name="Changes" comment="" />
+      <created>1734836597946</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1734836597946</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+  </component>
+</project>
